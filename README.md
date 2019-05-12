@@ -1,7 +1,9 @@
 # AdventureWorks
 Analysis of Microsoft AdventureWorks bicycle customer and sales data. 
 
-The data and assignment are provided in the course, EdX Microsoft DAT 275x: "Principles of Machine Learning: Python Edition". Work files are posted in the repository as both Jupyter Notebook (.ipynb) and as an HTML (.html) documents. To view HTML files copy and paste the link address here: https://htmlpreview.github.io/.
+The data and assignment are provided in the course, EdX Microsoft DAT 275x: "Principles of Machine Learning: Python Edition". 
+
+Work files are posted in the repository as both Jupyter Notebook (.ipynb) and as an HTML (.html) documents. To view HTML files copy and paste the link address here: https://htmlpreview.github.io/.
 
 ## Instructions
 
